@@ -22,9 +22,9 @@
 
 | Check | Status | Notes |
 |-------|--------|-------|
-| Python Compatibility | GREEN | The tech stack is predominantly Python-based, using libraries such as pandas, numpy, scikit-learn, and Streamlit for development and implementation. |
-| Data Readiness | GREEN | The datasets are small (under 1GB) and include structured ingredients and nutritional information, minimizing the need for extensive cleaning or preparation. |
-| Resource Check | YELLOW | While the project can use Google Colab, the reliance on API keys and access to external model services may pose accessibility issues for all students, depending on their ability to secure these resources. |
+| Python Compatibility | 🟢 | The tech stack is predominantly Python-based, using libraries such as pandas, numpy, scikit-learn, and Streamlit for development and implementation. |
+| Data Readiness | 🟢 | The datasets are small (under 1GB) and include structured ingredients and nutritional information, minimizing the need for extensive cleaning or preparation. |
+| Resource Check | 🟡 | While the project can use Google Colab, the reliance on API keys and access to external model services may pose accessibility issues for all students, depending on their ability to secure these resources. |
 
 **Student Fit Score:** 8/10  
 **Technical Depth Score:** 7/10  
