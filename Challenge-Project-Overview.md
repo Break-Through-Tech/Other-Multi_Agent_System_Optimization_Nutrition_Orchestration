@@ -18,7 +18,7 @@
 
 
 ## 📋 BTT Internal Evaluation Notes
-*(This section is for BTT staff only — remove before sharing with students)*
+*(This section is for BTT staff only)*
 
 | Check | Status | Notes |
 |-------|--------|-------|
@@ -34,7 +34,6 @@
 The project showcases a compelling application of machine learning in dietary optimization. However, it requires careful consideration of the integration of various models and potential failure points in real-world applications. Consider providing additional support for students around the external API interfaces and the expected data formats.
 
 ---
-```
 
 ## Dynamic Nutrition Orchestrator: A Multi-Agent System for High-Protein Optimization
 
