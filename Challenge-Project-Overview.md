@@ -36,7 +36,7 @@ The project showcases a compelling application of machine learning in dietary op
 ---
 ```
 
-# Dynamic Nutrition Orchestrator: A Multi-Agent System for High-Protein Optimization
+## Dynamic Nutrition Orchestrator: A Multi-Agent System for High-Protein Optimization
 
 **Company / Org:** Other  
 **Challenge Advisor:** Sakshi Gupta, sakshigp@gmail.com  
@@ -159,6 +159,6 @@ I'm excited to work with you!
 
 ---
 
-## ❓ Questions?
+##❓ Questions?
 
 Please bring any questions to our first meeting during the week of August 24th (Break Through Tech’s Bridge to Studio - Session B). 
