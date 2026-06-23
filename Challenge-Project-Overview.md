@@ -24,14 +24,13 @@
 |-------|--------|-------|
 | Python Compatibility | 🟢 | The tech stack is predominantly Python-based, using libraries such as pandas, numpy, scikit-learn, and Streamlit for development and implementation. |
 | Data Readiness | 🟢 | The datasets are small (under 1GB) and include structured ingredients and nutritional information, minimizing the need for extensive cleaning or preparation. |
-| Resource Check | 🟡 | While the project can use Google Colab, the reliance on API keys and access to external model services may pose accessibility issues for all students, depending on their ability to secure these resources. |
-
+| Resource Check | 🟡 | While the project can use Google Colab, the reliance on API keys and access to external model services may pose accessibility issues for Fellows
 **Student Fit Score:** 8/10  
 **Technical Depth Score:** 7/10  
 **Overall Recommendation:** REVISE
 
 **Advisor Feedback Draft:**
-The project showcases a compelling application of machine learning in dietary optimization. However, it requires careful consideration of the integration of various models and potential failure points in real-world applications. Consider providing additional support for students around the external API interfaces and the expected data formats.
+The project showcases a compelling application of machine learning in dietary optimization. However, it requires careful consideration of how to integrate various models and potential failure points in real-world applications. Consider providing additional support for students around the external API interfaces and the expected data formats.
 
 ---
 
@@ -45,7 +44,7 @@ The project showcases a compelling application of machine learning in dietary op
 
 ## 🏢 About Other
 
-Other is focused on leveraging technology within the nutrition sector, aiming to enhance meal planning accuracy and promote healthy eating habits through innovative solutions.
+The project focuses on leveraging technology in the nutrition sector to enhance meal-planning accuracy and promote healthy eating habits through innovative solutions.
 
 ---
 
@@ -63,7 +62,7 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 
 | Month | Milestone | Key Activities |
 |-------|-----------|----------------|
-| **September** | Data Understanding | Explore dataset, handle missing values, document findings |
+| **September** | Data Understanding | Acquire data, clean and process,  explore datasets, document findings |
 | **October** | Model Development | Train baseline model, experiment with approaches, iterate |
 | **November** | Evaluation & Presentation | Finalize model, prepare presentation, document results |
 
