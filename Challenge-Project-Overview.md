@@ -18,13 +18,12 @@
 
 
 ## 📋 BTT Internal Evaluation Notes
-*(This section is for BTT staff only)*
 
 | Check | Status | Notes |
 |-------|--------|-------|
-| Python Compatibility | 🟢 | The tech stack is predominantly Python-based, using libraries such as pandas, numpy, scikit-learn, and Streamlit for development and implementation. |
-| Data Readiness | 🟢 | The datasets are small (under 1GB) and include structured ingredients and nutritional information, minimizing the need for extensive cleaning or preparation. |
-| Resource Check | 🟡 | While the project can use Google Colab, the reliance on API keys and access to external model services may pose accessibility issues for Fellows|
+| Python Compatibility | 🟢 | Keep the architecture fully native to Python helper scripts to eliminate arithmetic hallucinations. Shift from complex multi-variable linear equation solvers to discrete algorithmic scaling factors (e.g., $0.5\times$, $1.0\times$, $1.5\times$) to ensure the programmatic logic remains achievable within Google Colab.
+| Data Readiness | 🟡 | Preserve the read-only USDA FoodData Central API. However, the multi-modal pipeline can be stabilized by replacing raw pantry snapshots with a structured, text-based multiple-choice checkbox selection menu in the Streamlit UI. |
+| Resource Check | 🔴 | The live e-commerce API integration and storefront inventory querying present high security restrictions and environmental fragility. The application's output could be redirected, using simulated commerce data, to export a downloadable, standardized CSV procurement matrix|
 
 **Student Fit Score:** 8/10  
 **Technical Depth Score:** 7/10  
